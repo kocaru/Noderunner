@@ -8,4 +8,6 @@
 + Rivalz  |  https://rivalz.ai/
 + Nodepay  |  https://nodepay.ai/
 + Grass  |  https://app.getgrass.io/
+
+###Soon
 + Humanity protocol  |  https://www.humanity.org/ (Prepaid waitlist) 
