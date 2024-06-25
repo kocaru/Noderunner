@@ -9,5 +9,5 @@
 + Nodepay  |  https://nodepay.ai/
 + Grass  |  https://app.getgrass.io/
 
-###Soon
+### Soon
 + Humanity protocol  |  https://www.humanity.org/ (Prepaid waitlist) 
